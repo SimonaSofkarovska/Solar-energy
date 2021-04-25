@@ -1,0 +1,4 @@
+name: Simona Sofkarovska
+student number: 675351
+class: HAIT1D(1)
+GitHub url:https://github.com/SimonaSofkarovska/Solar-Energy-Retake.git
